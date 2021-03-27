@@ -1,6 +1,4 @@
 ## Bem-vindo <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
 [![Linkedin Badge](https://img.shields.io/badge/-mrafaelcb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrafaelcb/)](https://www.linkedin.com/in/mrafaelcb/)
 [![Instagram Badge](https://img.shields.io/badge/-mrafaelcb-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mrafaelcb/)](https://instagram.com/mrafaelcb)
 [![Gmail Badge](https://img.shields.io/badge/-mayconrafaelcb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconrafaelcb@gmail.com)](mailto:mayconrafaelcb@gmail.com)
@@ -51,3 +49,5 @@
 
 <img alt="mrafaelcb github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=mrafaelcb&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" href="https://github.com/mrafaelcb" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrafaelcb&layout=compact&count_private=true&&hide_border=true&theme=tokyonight&hide=jupyter%20notebook&langs_count=5" href="https://github.com/mrafaelcb" />
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
