@@ -48,6 +48,6 @@
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 
 <img alt="mrafaelcb github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=mrafaelcb&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" href="https://github.com/mrafaelcb" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrafaelcb&layout=compact&count_private=true&&hide_border=true&theme=tokyonight&hide=jupyter%20notebook&langs_count=5" href="https://github.com/mrafaelcb" />
+<!-- <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrafaelcb&layout=compact&count_private=true&&hide_border=true&theme=tokyonight&hide=jupyter%20notebook&langs_count=5" href="https://github.com/mrafaelcb" /> -->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
