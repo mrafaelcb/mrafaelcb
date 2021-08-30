@@ -13,7 +13,7 @@
 ## ⚡ Linguagem, Ferramentas, Plataformas:
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP)
-![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=Ruby)
+<!-- ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=Ruby) -->
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=Dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
