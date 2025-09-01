@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-mrafaelcb-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mrafaelcb/)](https://instagram.com/mrafaelcb)
 [![Gmail Badge](https://img.shields.io/badge/-mayconrafaelcb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconrafaelcb@gmail.com)](mailto:mayconrafaelcb@gmail.com)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mrafaelcb" alt="Visitas"/>
-<img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!-- <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 ### Sobre:
 - 👨‍💻 Desenvolvedor Full-stack
 - 🎓 Bacharel em Ciência da Computação
